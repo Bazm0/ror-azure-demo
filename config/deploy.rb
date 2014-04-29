@@ -33,7 +33,6 @@ set :tests, []
 # for details of operations
 set(:config_files, %w(
   nginx.conf
-  application.yml
   database.example.yml
   log_rotation
   monit
